@@ -15,4 +15,17 @@ Thanks to Sy Brand for their [tl::expected](https://github.com/TartanLlama/expec
 
 ## Examples
 
-snippet: integration_test.If_Else_Test.approved.docs.md
+<!-- snippet: integration_test.If_Else_Test.approved.docs.md -->
+<a id='snippet-integration_test.If_Else_Test.approved.docs.md'></a>
+```md
+Input:
+```eml
+if (5 > 1) {2 + 3} else {4 - 6}
+```
+Executes to:
+```
+5: Number
+```
+```
+<sup><a href='#snippet-integration_test.If_Else_Test.approved.docs.md' title='Start of snippet'>anchor</a></sup>
+<!-- endSnippet -->
